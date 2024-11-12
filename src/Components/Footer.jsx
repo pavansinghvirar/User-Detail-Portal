@@ -7,14 +7,14 @@ const FooterPage = () => {
       <div className="footer-container">
         <div className="footer-section">
           <h3>About Us</h3>
-          <p><span>Team & Ashish R Chauhan : &nbsp;</span>
+          <p><span>Team & Pavan N Singh : &nbsp;</span>
             We are a leading platform for bike rentals, helping people explore the city easily and affordably.
           </p>
         </div>
         <div className="footer-section">
           <h3>Contact</h3>
-          <p>Email: ashishchauhanvasai@gmail.com</p>
-          <p>Phone: +91 8446586191</p>
+          <p>Email: shdwvctr@gmail.com</p>
+          <p>Phone: +91 7249516203</p>
         </div>
         <div className="footer-section">
           <h3>Follow Us</h3>
